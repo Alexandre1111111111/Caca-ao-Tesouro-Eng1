@@ -1,0 +1,19 @@
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+html {
+    background-color: #b6d9ac;
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    }
+    img {
+        height: 500px;
+        display: block;
+        margin: 0 auto;
+        border: 3px black solid;
+    }
