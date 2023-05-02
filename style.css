@@ -11,9 +11,13 @@ html {
     font-size: 10px;
     font-family: "Open Sans", sans-serif;
     }
-    img {
+img {
         height: 500px;
         display: block;
         margin: 0 auto;
         border: 3px black solid;
     }
+input {
+    display: block;
+    margin: 0 auto;
+}
